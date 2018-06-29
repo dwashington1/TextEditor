@@ -12,7 +12,7 @@ namespace TextEditor
         public DataHolder(string s)
         {
             Hold = s;
-            //Console
+            Console.WriteLine("Hello, world!");
 
         }
     }
