@@ -13,7 +13,7 @@ namespace TextEditor
         {
             Hold = s;
             //Console
-
+            //Today is Thursday
         }
     }
 }
