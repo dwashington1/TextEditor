@@ -3,6 +3,7 @@ use termion::event::Key;
 use termion::input::TermRead;
 use termion::raw::IntoRawMode;
 
+
 #[derive(Default)]
 pub struct Editor {
     should_quit: bool,
